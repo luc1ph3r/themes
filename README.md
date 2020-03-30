@@ -8,6 +8,8 @@
 ### Telegram
 #### Rowan Tree
 
+[Install](http://t.me/addtheme/wSty35h4PWplb63G)
+
 This theme is based on NightMode. Check this channel out: https://t.me/NightModeTheme
 
 [Theme](https://github.com/luc1ph3r/themes/blob/master/Telegram/RowanTree.tdesktop-theme)
